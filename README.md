@@ -15,11 +15,17 @@ can also pass props to Story component as
       this.props.navigation.navigate('Story', {data:[...this.state.data]})
 ```
 
+
 **Previews**
 
 
 
 
 
-  <img src='https://github.com/abhishekranaji/react-native-insta-story/blob/main/images/1619173081098.jpg' height="600" width="300">
-   <img src='https://github.com/abhishekranaji/react-native-insta-story/blob/main/images/1619173104730.jpg' height="600" width="300">
+  <img src='https://github.com/abhishekranaji/react-native-insta-story/blob/main/images/1619173081098.jpg' height="600" width="300"><img src='https://github.com/abhishekranaji/react-native-insta-story/blob/main/images/1619173104730.jpg' height="600" width="300">
+
+
+
+
+**Company website**
+http://immortalt.dev/
